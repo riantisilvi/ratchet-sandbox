@@ -1,0 +1,14 @@
+.splash-graphic {
+  height: 200px;
+  background-color: hsl(0,0%,13%);
+}
+
+.splash-text {
+  padding-top: 100px;
+  font-size: 50px;
+  color: hsl(0,100%,100%);
+}
+.btn-container {
+  width: 50%;
+  float: left;
+}
